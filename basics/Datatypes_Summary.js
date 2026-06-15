@@ -31,3 +31,7 @@ const myFunction = function(){
 }
 
 // typeof used to know type of datatype
+
+
+
+
